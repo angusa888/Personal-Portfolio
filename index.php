@@ -11,13 +11,16 @@
 </head>
 <body>
     <div id="header">
-        <h1 id="welcomeText">Welcome</h1>
-    </div>
-    <div id="menu">
-        <ul>
-            <li>Yolo</li>
-            <li>Yur mom</li>
+        <h1 id="welcomeText">Alanah Angus</h1>
+        <ul id="menu">
+            <li><a href=./index.php>Home</a></li>
+            <li><a href=./index.php>Projects</a></li>
+            <li><a href=./index.php>About</a></li>
         </ul>
     </div>
+    <div id="recent news">
+        
+    </div>
+    
 </body>
 </html>
