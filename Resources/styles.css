@@ -8,7 +8,9 @@ body {
     align-items: end;
     background-color: #3A5743;
     height: 150px;
+}
+#welcomeText {
     color: white;
     font-family: "Mukta", sans-serif;
-    
+    font-size: 300%;
 }
